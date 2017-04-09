@@ -1,5 +1,4 @@
-# procedural-terrain
-Procedural Terrain with Three.js
+# Procedural Terrain with Three.js
 
 Realizzato in collaborazione con Fabrizio Di Guardo e Francesco Marchetti
 
