@@ -6,4 +6,4 @@ Si tratta di un progetto sviluppato per l'esame di Computer Graphics and 3D
 
 Si consiglia di leggere il file Presentazione.pdf
 
-![Screenshot terreno procedurale](http://www.dsi.unifi.it/~berretti/download/procedural_terrain.png)
+![Screenshot terreno procedurale](/procedural-terrain-809x475.png)
